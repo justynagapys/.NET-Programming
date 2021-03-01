@@ -1,0 +1,13 @@
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.exe
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.deps.json
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.runtimeconfig.json
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.runtimeconfig.dev.json
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.dll
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\bin\Debug\netcoreapp3.1\Ćwiczenie3.pdb
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.csprojAssemblyReference.cache
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.AssemblyInfoInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.AssemblyInfo.cs
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.csproj.CoreCompileInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.dll
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.pdb
+C:\Users\justy\source\repos\Ćwiczenie3\Ćwiczenie3\obj\Debug\netcoreapp3.1\Ćwiczenie3.genruntimeconfig.cache
