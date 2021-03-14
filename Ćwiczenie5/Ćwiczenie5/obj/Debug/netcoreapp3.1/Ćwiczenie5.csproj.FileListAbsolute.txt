@@ -1,0 +1,12 @@
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.exe
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.deps.json
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.runtimeconfig.json
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.runtimeconfig.dev.json
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.dll
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\bin\Debug\netcoreapp3.1\Ćwiczenie5.pdb
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.AssemblyInfoInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.AssemblyInfo.cs
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.csproj.CoreCompileInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.dll
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.pdb
+C:\Users\justy\source\repos\Ćwiczenie5\Ćwiczenie5\obj\Debug\netcoreapp3.1\Ćwiczenie5.genruntimeconfig.cache
