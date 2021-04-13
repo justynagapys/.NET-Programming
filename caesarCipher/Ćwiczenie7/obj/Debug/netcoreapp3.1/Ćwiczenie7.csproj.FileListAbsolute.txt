@@ -1,0 +1,26 @@
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.exe
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.deps.json
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.runtimeconfig.json
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.runtimeconfig.dev.json
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.dll
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.pdb
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.csprojAssemblyReference.cache
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.AssemblyInfoInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.AssemblyInfo.cs
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.csproj.CoreCompileInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.dll
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.pdb
+C:\Users\justy\source\repos\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.genruntimeconfig.cache
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.exe
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.deps.json
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.runtimeconfig.json
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.runtimeconfig.dev.json
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.dll
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\bin\Debug\netcoreapp3.1\Ćwiczenie7.pdb
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.csprojAssemblyReference.cache
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.AssemblyInfoInputs.cache
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.AssemblyInfo.cs
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.csproj.CoreCompileInputs.cache
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.dll
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.pdb
+C:\Users\justy\Dropbox\IV semestr\(.) Programowanie .NET\Ćwiczenie7\Ćwiczenie7\obj\Debug\netcoreapp3.1\Ćwiczenie7.genruntimeconfig.cache
