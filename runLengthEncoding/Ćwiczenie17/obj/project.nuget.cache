@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMt4hEsqefF7nZ2XeQiBr67Xrd41yM1pZImxTFC/CHOPlg6vdycMS23LqHxObp2JFws8xc9JNoYTlXMvGOB26g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justy\\source\\repos\\Ćwiczenie17\\Ćwiczenie17\\Ćwiczenie17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
