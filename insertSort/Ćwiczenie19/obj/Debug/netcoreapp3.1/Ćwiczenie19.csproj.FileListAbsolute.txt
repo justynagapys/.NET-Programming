@@ -1,0 +1,13 @@
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.exe
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.deps.json
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.runtimeconfig.json
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.runtimeconfig.dev.json
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.dll
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\bin\Debug\netcoreapp3.1\Ćwiczenie19.pdb
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.csprojAssemblyReference.cache
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.AssemblyInfoInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.AssemblyInfo.cs
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.csproj.CoreCompileInputs.cache
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.dll
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.pdb
+C:\Users\justy\source\repos\Ćwiczenie19\Ćwiczenie19\obj\Debug\netcoreapp3.1\Ćwiczenie19.genruntimeconfig.cache
