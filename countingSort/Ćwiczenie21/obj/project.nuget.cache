@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOs7303I3l3FCrfu1uZ+nr3cvtLYTGAdjrUQg/5h3/DpDfdyxyR4UzC5RII38Uw99RRjYrPtyBEUCXHQmdDvtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justy\\source\\repos\\Ćwiczenie21\\Ćwiczenie21\\Ćwiczenie21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
